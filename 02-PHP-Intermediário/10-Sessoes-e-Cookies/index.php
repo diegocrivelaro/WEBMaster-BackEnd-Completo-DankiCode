@@ -1,3 +1,4 @@
+<!-- SESSÃO -->
 <?php
 session_start(); /* INICIAR A SESSÃO */
 
@@ -7,6 +8,7 @@ $_SESSION["Chave2"] = "Valor2";
 print_r($_SESSION);
 ?>
 
+<!-- COOKIE -->
 <?php
 if(!isset($_COOKIE["CDC"])) {
     setcookie("CDC", "Bala Gelada Recheada", time() + 60, "/", "", "", true); /* SETANDO O COOKIE(NOME, VALOR, TEMPO) */
