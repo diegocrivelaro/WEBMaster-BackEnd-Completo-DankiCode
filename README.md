@@ -40,7 +40,7 @@
 - [x] Domínio, Hospedagem e Servidor Externo
 - [x] Lógica de Programação e Algoritmos
 - [x] PHP Básico
-- [ ] PHP Intermediário
+- [X] PHP Intermediário
 - [ ] PHP Orientado a Objetos
 - [ ] Banco de dados e PHP
 - [ ] Criando Site Dinâmico - HTML5 e Marcação 
